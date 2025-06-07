@@ -1,0 +1,13 @@
+body{
+    margin: 0%;
+}
+
+.content{
+   display: grid;
+   place-items: center;
+}
+
+.oculto{
+    display: none;
+    place-items: center;
+}
