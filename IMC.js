@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded",function () {
     const resultado = document.getElementById("resultado");
     const image = document.getElementById("imagen-anti");
 
-    const peso_limite = 80;
+    const peso_limite = 75;
 
     botonCalcular.addEventListener("click", function(){
         const peso = parseFloat(pesoInput.value);
